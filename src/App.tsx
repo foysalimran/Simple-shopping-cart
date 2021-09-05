@@ -1,5 +1,5 @@
 
-function App() {
+function App () {
   return (
    <>
     <h1 className="text-3xl text-blue-800">Hello tailwind CSS</h1>
@@ -7,4 +7,4 @@ function App() {
   )
 }
 
-export default App;
+export default App

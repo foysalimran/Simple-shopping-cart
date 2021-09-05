@@ -1,12 +1,10 @@
-import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <h1>This is heading one</h1>
-      <p>This is heading two</p>
-    </div>
-  );
+   <>
+    <h1 className="text-3xl text-blue-800">Hello tailwind CSS</h1>
+   </>
+  )
 }
 
 export default App;
